@@ -14,12 +14,11 @@ follow this : https://support.google.com/mail/thread/205453566/how-to-generate-a
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-# steps for Run this APP
 
 # Clone this from git repository
 git clone https://github.com/KajaliniPuvanenthiran/innerbless-be-mail
 
-# navigate to appdirectory
+# Navigate to appdirectory
 cd innerbless-be-mail
 
 # Install dependencies using vs code terminal
