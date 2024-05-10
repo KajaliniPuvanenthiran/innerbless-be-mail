@@ -1,4 +1,5 @@
 # innerbless-be-mail
+
 in this NodeJS app there is a single endpoint for send email to the receiver address which provided in request body
 as mail host there is a temporary mail address has added.
 
@@ -9,16 +10,15 @@ Current email host : "yourseatsrilanka@gmail.com"
 
 If you need you have to get a 2-factor authenticated email address owned by you and need to do some configurations to add an email address like this.
 
-# YOU NEED TO CREATE APP PASSWORD FOR YOU GMAIL ADDRESS. ITS A BIT DIFFERENT 
+YOU NEED TO CREATE APP PASSWORD FOR YOUR OWNED GMAIL ADDRESS.
 follow this : https://support.google.com/mail/thread/205453566/how-to-generate-an-app-password?hl=en
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-
 # Clone this from git repository
 git clone https://github.com/KajaliniPuvanenthiran/innerbless-be-mail
 
-# Navigate to appdirectory
+# Navigate to app directory
 cd innerbless-be-mail
 
 # Install dependencies using vs code terminal
